@@ -49,3 +49,4 @@ func ResolveAsUint64(vm *VM.VirtualMachine, op ResOperander) (uint64, error) {
 
 	return uint64Value, nil
 }
+
